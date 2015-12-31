@@ -1,27 +1,31 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)
+sb-admin2-sidebar-toggle-collapse
+==================
 
-[SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+BootstrapのAdmin ThemeであるSB Admin2をを修正してみました�
 
-## Getting Started
+1. TOPメニュー固�Fixed Top Navbar
+-------------------
+<img border="0" src="http://4.bp.blogspot.com/-gnXKalQ_l1I/VLXldKQBJxI/AAAAAAAAAV0/RhUx0raNyhI/s1600/fixed-top-navbar1.png"/>
+<img border="0" src="http://3.bp.blogspot.com/-ipf9O5tCQ9E/VLXlgrHX0hI/AAAAAAAAAV8/K7SYxN9d-As/s1600/fixed-top-navbar2.png"/>
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
-* Install via bower using `bower install startbootstrap-sb-admin-2`
 
-## Bugs and Issues
+2. サイドメニューの伸縮( Sidebar Toggle
+-------------------
+<img border="0" src="http://4.bp.blogspot.com/-gnXKalQ_l1I/VLXldKQBJxI/AAAAAAAAAV0/RhUx0raNyhI/s1600/fixed-top-navbar1.png"/>
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin-2/).
+<img border="0" src="http://1.bp.blogspot.com/-wXl5jmwA1oc/VLXlgiuRY1I/AAAAAAAAAWE/tefMEEJfn8k/s1600/sidebar-toggle1.png"/>
 
-## Creator
+<img border="0" src="http://2.bp.blogspot.com/-zwPVe3tr6rs/VLXlggRFArI/AAAAAAAAAWA/4FsUQ78PUgI/s1600/sidebar-toggle2.png">
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+<img border="0" src="http://1.bp.blogspot.com/-gTrylN1KsZs/VLXliOMjkoI/AAAAAAAAAWM/UJYdM-AwQmc/s1600/sidebar-toggle3.png">
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+詳細冮�は以下�ブログを参照してください�
 
-## Copyright and License
+<a href="http://time-complexity.blogspot.jp/2015/01/sb-admin2-sidebar-toggle.html" target="_blank">
+http://time-complexity.blogspot.jp/2015/01/sb-admin2-sidebar-toggle.html</a>
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2/blob/gh-pages/LICENSE) license.
+
+ライセンスなどは�SB Admin2を従います�?
+
+
