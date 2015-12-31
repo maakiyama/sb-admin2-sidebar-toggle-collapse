@@ -33,6 +33,8 @@ http://time-complexity.blogspot.jp/2015/01/sb-admin2-sidebar-toggle.html</a>
 * Cookieの読み書きを jquery.cookieからjs-cookieに変更
 * サイドバーの色を本家の色に変更
 
+[live demo](http://huruyosiathatena.github.io/sb-admin2-sidebar-toggle-collapse/)
+
 ライセンスなどは元のSB Admin2を従います。
 
 
