@@ -1,7 +1,7 @@
 sb-admin2-sidebar-toggle-collapse
 ==================
 
-BootstrapのAdmin ThemeであるSB Admin2をを修正してみました。
+BootstrapのAdmin ThemeであるSB Admin2を修正してみました。
 
 1. TOPメニュー固定 Fixed Top Navbar
 -------------------
@@ -25,6 +25,13 @@ BootstrapのAdmin ThemeであるSB Admin2をを修正してみました。
 <a href="http://time-complexity.blogspot.jp/2015/01/sb-admin2-sidebar-toggle.html" target="_blank">
 http://time-complexity.blogspot.jp/2015/01/sb-admin2-sidebar-toggle.html</a>
 
+
+3.fork元からの変更点
+-------------------
+* 本家 https://github.com/IronSummitMedia/startbootstrap-sb-admin-2 からの分岐元になったと推測される v1.0.4 とマージ
+* v1.0.8までをマージ
+* Cookieの読み書きを jquery.cookieからjs-cookieに変更
+* サイドバーの色を本家の色に変更
 
 ライセンスなどは元のSB Admin2を従います。
 
