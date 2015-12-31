@@ -145,15 +145,17 @@ body {
 #sidebar-area .nav>li>a:hover, #sidebar-area .nav>li>a:focus,
 #sidebar-area .nav>li:hover, #sidebar-area .nav>li:focus,
 #sidebar-area .nav>li.active {
-    background-color: #24547E;
+    background-color: #f8f8f8;
 }
-
-.sidebar a {
-    color: #CACACA;
-}
+ 
+/*
+ * .sidebar a {
+ *     color: #CACACA;
+ * }
+ */
 .sidebar .nav-second-level,
 .sidebar .nav-second-level .nav-third-level {
-    background-color: #2B6598;
+    background-color: #f8f8f8;
     
 }
 
@@ -268,7 +270,7 @@ body {
         top: 41px;
         left: 47px;
         width: 203px;
-        background-color: #2B6598;
+        background-color: #f8f8f8;
         border-bottom: 1px solid white;
     }
     body.sidebar-closed #wrapper #sidebar li:hover > ul.nav-second-level > ul.nav-third-level {
@@ -280,7 +282,7 @@ body {
         top: 40px;
         left: 0px;
         width: 203px;
-        background-color: #2B6598;
+        background-color: #f8f8f8;
         border-bottom: 1px solid white;
     }
     
